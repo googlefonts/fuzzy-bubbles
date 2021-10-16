@@ -55332,16 +55332,6 @@ width = 417;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "FuzzyBubbles-ROB";
-},
-{
-name = postscriptFontName;
-value = "FuzzyBubbles-ROB";
-}
-);
 interpolationWeight = 400;
 instanceInterpolations = {
 "8F40E529-D5F5-4815-B22D-63C5267C70E2" = 1;
@@ -55350,22 +55340,14 @@ name = Regular;
 weightClass = Normal;
 },
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "FuzzyBubblesBold-ROB";
-},
-{
-name = postscriptFontName;
-value = "FuzzyBubblesBold-ROB";
-}
-);
 interpolationWeight = 700;
 interpolationWidth = 5;
 instanceInterpolations = {
 "33ACAFD4-38EF-4E3F-A654-B3CAAACD5815" = 1;
 };
+isBold = 1;
 name = Bold;
+weightClass = Bold;
 }
 );
 manufacturer = "Robert E. Leuschke";
