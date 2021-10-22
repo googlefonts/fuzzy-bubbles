@@ -1,5 +1,12 @@
 {
 .appVersion = "1357";
+DisplayStrings = (
+"oó/obreve ô/ocircumflexacute/ocircumflexdotbelow/ocircumflexgrave/ocircumflexhookabove/ocircumflextilde/odblgrave ö/odieresismacron/odotaccentmacron/odotbelow ò/ohookabove/ohorn/ohornacute/ohorndotbelow/ohorngrave/ohornhookabove/ohorntilde/ohungarumlaut/oinvertedbreve/omacron/oogonek",
+"aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/aringacute ãæ/aeacute",
+"AÁ/Abreve/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevehookabove/Abrevetilde/Acaron Â/Acircumflexacute/Acircumflexdotbelow/Acircumflexgrave/Acircumflexhookabove/Acircumflextilde/Adblgrave Ä/Adotbelow À/Ahookabove/Ainvertedbreve/Amacron/Aogonek Å/Aringacute ÃÆ/AEacute",
+"OÓ/Obreve/Ocaron Ô/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexhookabove/Ocircumflextilde/Odblgrave Ö/Odieresismacron/Odotaccentmacron/Odotbelow Ò/Ohookabove/Ohorn/Ohornacute/Ohorndotbelow/Ohorngrave/Ohornhookabove/Ohorntilde/Ohungarumlaut/Oinvertedbreve/Omacron/Oogonek Ø/Oslashacute Õ/Otildemacron",
+".you/ellipsis"
+);
 classes = (
 {
 automatic = 1;
@@ -48685,6 +48692,7 @@ unicode = 003B;
 },
 {
 glyphname = ellipsis;
+lastChange = "2021-10-22 11:00:18 +0000";
 layers = (
 {
 components = (
@@ -48693,30 +48701,37 @@ name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 414, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 207, 0}";
 }
 );
 layerId = "8F40E529-D5F5-4815-B22D-63C5267C70E2";
-width = 292;
+width = 706;
 },
 {
 components = (
 {
 name = period;
+transform = "{1, 0, 0, 1, 0, -1}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 413, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 207, 0}";
 }
 );
 layerId = "33ACAFD4-38EF-4E3F-A654-B3CAAACD5815";
-width = 292;
+width = 705;
 }
 );
+leftMetricsKey = period;
+rightMetricsKey = period;
 unicode = 2026;
 },
 {
