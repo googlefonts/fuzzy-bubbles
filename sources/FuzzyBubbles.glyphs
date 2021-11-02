@@ -1,5 +1,5 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
 "nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft dhd/quotedblright/quoteleft/quoteright 2\"'«»>/guilsinglleft/guilsinglright/leftanglebracket-math/rightanglebracket-math @/space",
 "«",
@@ -15,7 +15,7 @@ q,
 "23±5",
 "Trademark/trademark",
 "/trademark",
-"®",
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o,:;/ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @",
 "+¬",
 "AR~",
 "20/approxequal 29",
@@ -52768,11 +52768,7 @@ unicode = 005D;
 },
 {
 glyphname = hyphen;
-<<<<<<< HEAD
-lastChange = "2021-10-29 13:40:51 +0000";
-=======
 lastChange = "2021-11-02 17:32:18 +0000";
->>>>>>> master
 layers = (
 {
 background = {
@@ -61558,11 +61554,7 @@ unicode = 2260;
 },
 {
 glyphname = greater;
-<<<<<<< HEAD
-lastChange = "2021-10-29 14:21:34 +0000";
-=======
 lastChange = "2021-11-02 19:03:02 +0000";
->>>>>>> master
 layers = (
 {
 background = {
@@ -83744,5 +83736,5 @@ oV = "70";
 };
 };
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 7;
 }
